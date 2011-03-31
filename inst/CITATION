@@ -1,0 +1,24 @@
+citHeader("To cite mcaGUI in publications use:")
+
+citEntry(entry  = "Manual",
+         title  = "mcaGUI: Microbial Community Data Analysis GUI",
+         author = "Wade K. Copeland, Vandhana Krishnan, Daniel Beck, Matt Settles, James Foster, Kyu-Chul Cho                                                    
+                    Mitch Day, Roxana Hickey, Ursel M.E. Schutte, Xia Zhou, Chris Williams, Larry J. Forney, Zaid Abdo. 
+                    Poor Man's GUI (PMG) base code by John Verzani with contributions by Yvonnick Noel",
+         organization = "Initiative for Bioinformatics and Evolutionary Studies (IBEST)",
+         address      = "University of Idaho,
+                          Moscow ID, 83844",
+         year         = version$year,
+
+         textVersion = 
+         paste("Wade K. Copeland, Vandhana Krishnan, Daniel Beck, Matt Settles, James Foster, Kyu-Chul Cho                                                    
+                    Mitch Day, Roxana Hickey, Ursel M.E. Schutte, Xia Zhou, Chris Williams, Larry J. Forney, Zaid Abdo (", version$year, ").",
+               "mcaGUI: Microbial Community Data Analysis GUI.",
+               "IBEST, University of Idaho.",
+               sep="")
+         )
+
+citFooter("Lots of time and effort were invested in creating mcaGUI.",
+          "Please, cite it when using it together with R.",
+          "See also", sQuote("citation()"),
+          "for citing R.")

@@ -1,0 +1,28 @@
+Welcome to mcaGUI!
+
+Currently mcaGUI can be installed on multiple operating systems (OS).  This 
+section discusses how to install mcaGUI on Windows OS, Machintosh OS and 
+the Ubuntu distribution of Linux.  
+	
+A.	WINDOWS AND UBUNTU LINUX INSTALLATION INSTRUCTIONS
+    1.	Download and install the most recent version of R for the Windows OS at http://www.r-project.org/ (at the time of writing R-2.12.0).
+    2.	Download and install GTK from http://downloads.sourceforge.net/gtk-win/gtk2-runtime-2.22.0-2010-10-21-ash.exe. 
+    3.	Open the R program on your computer and type:
+          source("http://bioconductor.org/biocLite.R")
+          biocLite("mcaGUI")
+
+
+B.	MACHINTOSH OSX INSTALLATION INSTRUCTIONS
+    1.	Download and install the most recent version of R for the Macintosh OS at http://www.r-project.org/ (at the time of writing R-2.12.0).
+    2.	Open the R program on your computer.
+    3.	Download and install GTK from http://r.research.att.com/libs/GTK_2.18.5-X11.pkg. 
+    4.	Open the most recent version of R (at the time of writing R-2.12.0)
+    5.	Back in the R window type:
+          source("http://bioconductor.org/biocLite.R")
+          biocLite("mcaGUI")
+
+C.	INSTALL INSTRUCTIONS FOR "mcaGUI" R-PACKAGE UPDATES
+    1.	Open the most recent version of R (at the time of writing R-2.12.0)
+    2.	In the R command window type:
+          source("http://bioconductor.org/biocLite.R")
+          biocLite("mcaGUI")
