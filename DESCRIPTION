@@ -11,6 +11,5 @@ Description: Microbial community analysis GUI for R using gWidgets.
 biocViews: GUI, Visualization, Bioinformatics, Clustering, Sequencing
 License: GPL (>= 2)
 URL: http://www.ibest.uidaho.edu/ibest/index.php
-LazyLoad: FALSE
 Repository: Bioconductor
 Date/Publication: 2011-23-03 00:00:00
