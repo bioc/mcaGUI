@@ -1,5 +1,5 @@
 Package: mcaGUI
-Version: 1.5.0
+Version: 1.6.0
 Title: Microbial Community Analysis GUI
 Author: Wade K. Copeland, Vandhana Krishnan, Daniel Beck, Matt Settles, James Foster, Kyu-Chul Cho, Mitch Day, Roxana Hickey, Ursel M.E. Schutte, Xia Zhou, Chris Williams, Larry J. Forney, Zaid Abdo, Poor Man's GUI (PMG) base code by John Verzani with contributions by Yvonnick Noel
 Maintainer: Wade K. Copeland <wade@kingcopeland.com>
