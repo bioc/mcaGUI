@@ -1,15 +1,19 @@
 Package: mcaGUI
-Version: 1.11.1
+Version: 1.11.2
 Title: Microbial Community Analysis GUI
-Author: Wade K. Copeland, Vandhana Krishnan, Daniel Beck, Matt Settles, James Foster, Kyu-Chul Cho, Mitch Day, Roxana Hickey, Ursel M.E. Schutte, Xia Zhou, Chris Williams, Larry J. Forney, Zaid Abdo, Poor Man's GUI (PMG) base code by John Verzani with contributions by Yvonnick Noel
+Author: Wade K. Copeland, Vandhana Krishnan, Daniel Beck, Matt Settles,
+        James Foster, Kyu-Chul Cho, Mitch Day, Roxana Hickey, Ursel
+        M.E. Schutte, Xia Zhou, Chris Williams, Larry J. Forney, Zaid
+        Abdo, Poor Man's GUI (PMG) base code by John Verzani with
+        contributions by Yvonnick Noel
 Maintainer: Wade K. Copeland <wade@kingcopeland.com>
 Depends: lattice, MASS, proto, foreign, gWidgets(>= 0.0-36),
         gWidgetsRGtk2(>= 0.0-53), OTUbase, vegan, bpca
 Suggests:
 Enhances: iplots, reshape, ggplot2, cairoDevice, OTUbase
 Description: Microbial community analysis GUI for R using gWidgets.
-biocViews: GUI, Visualization, Bioinformatics, Clustering, Sequencing
 License: GPL (>= 2)
 URL: http://www.ibest.uidaho.edu/ibest/index.php
 Repository: Bioconductor
 Date/Publication: 2011-23-03 00:00:00
+biocViews: GUI, Visualization, Clustering, Sequencing
