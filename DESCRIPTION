@@ -1,5 +1,5 @@
 Package: mcaGUI
-Version: 1.37.0
+Version: 1.37.1
 Title: Microbial Community Analysis GUI
 Author: Wade K. Copeland, Vandhana Krishnan, Daniel Beck, Matt Settles,
         James Foster, Kyu-Chul Cho, Mitch Day, Roxana Hickey, Ursel
@@ -16,3 +16,4 @@ License: GPL (>= 2)
 URL: http://www.ibest.uidaho.edu/ibest/index.php
 Repository: Bioconductor
 biocViews: GUI, Visualization, Clustering, Sequencing
+PackageStatus: Deprecated
